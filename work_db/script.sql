@@ -1,0 +1,8 @@
+
+CREATE TABLE IF NOT EXISTS users2(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name VARCHAR(50)
+);
+INSERT INTO users2(name) VALUES ('Pashaaaaaaa');
+INSERT INTO users2(name) VALUES ('Svets1209');
+INSERT INTO users2(name) VALUES ('Gues')
